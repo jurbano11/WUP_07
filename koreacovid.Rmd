@@ -55,7 +55,7 @@ basicCC <- ggplot(dd2,aes(x=result,y=prcnt*100,fill=Sex))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-In the counting chart i can see that not a lot people died. It is 50-70. in the percentage female is 50% is alive male is about 40. there is more female than male. Twice as many male are dying.
+In the counting chart i can see that a lot people died. It is 50-70. In the percentage chart, female is 35 and male is about 63. There are more females than males, however twice as many males are dying in percentage.
 
   
 
