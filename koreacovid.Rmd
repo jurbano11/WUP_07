@@ -86,4 +86,5 @@ In the group of 1831female were alive and 1411male were alive. All in all more f
 
 
 ## Conclusions
+In today's lesson we learned to do a ggplot with the helper file. We changed the class for result and name the project kRdata. We were also able to create a numerical graph in % and counting as well as run a Chi-square test and a fisher test which both are equal in p value. The final result is that we want to know what the odds are of this happening. Males are the ones who suffered more during this study, hence females had an advantage over male as a result.
 
