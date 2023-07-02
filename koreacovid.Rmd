@@ -76,6 +76,11 @@ In the percentages i can see that more females are alive with the difference of 
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 
