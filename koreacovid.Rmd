@@ -66,6 +66,12 @@ In the counting chart i can see that not a lot people died. It is 50-70. in the 
   
 ## Numerical results
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
+
 
 ## Inferential results 
 
