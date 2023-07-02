@@ -72,6 +72,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+In the percentages i can see that more females are alive with the difference of 12%. Of all people that are dead 36% is female and 64% are male. In the second chart i see that female are 98.7 alive and male are only 97. In the dead % female were 1.4% and male 3%.
 
 ## Inferential results 
 
